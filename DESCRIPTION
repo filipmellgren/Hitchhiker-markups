@@ -1,10 +1,10 @@
 Package: hitchhiker.markups
-Title: What the Package Does (One Line, Title Case)
+Title: Compute Markups Following Procedure In De Ridder, Grassi, Morzenti (2022)
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
+    person("Filip", "Mellgren", , "filip.mellgren@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+Description: This package contains several functions to compute markups using the production function approach. The main use case is Swedish micro data, but can probably be used with more data sources following minor code alterations to be completed.
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
 Encoding: UTF-8
